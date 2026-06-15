@@ -1,0 +1,20 @@
+.DS_Store
+Thumbs.db
+
+# WeChat DevTools local/private configuration
+project.private.config.json
+
+# Local development ROMs and generated test ROM module
+rom/
+js/gba/dev-rom.js
+
+# BIOS files are usually copyrighted. Keep local copies out of git.
+js/gba/gba_bios.bin
+
+# Temporary/debug output
+tmp-frames/
+tmp-frames2/
+
+# Dependency folders are not used by this project and should not be committed.
+node_modules/
+miniprogram_npm/
