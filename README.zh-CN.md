@@ -6,6 +6,11 @@
 
 模拟核心基于 mGBA WebAssembly，项目入口是 `game.js`，主要逻辑位于 `js/main.js` 和 `js/gba` 目录。
 
+<p align="center">
+  <img src="media/portrait.gif" alt="Portrait gameplay demo" width="32%">
+  <img src="media/landscape.png" alt="Landscape gameplay demo" width="62%">
+</p>
+
 ## 功能特性
 
 - GBA 风格操作界面，包含屏幕、方向键、A/B、L/R、START/SELECT。

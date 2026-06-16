@@ -6,6 +6,11 @@ A Game Boy Advance emulator experiment for the WeChat Mini Game runtime. It prov
 
 The emulator core is based on mGBA compiled to WebAssembly. The game entry is `game.js`, and most of the runtime logic lives in `js/main.js` and `js/gba`.
 
+<p align="center">
+  <img src="media/portrait.gif" alt="Portrait gameplay demo" width="32%">
+  <img src="media/landscape.png" alt="Landscape gameplay demo" width="62%">
+</p>
+
 ## Features
 
 - GBA-style interface with screen, D-pad, A/B, L/R, START, and SELECT.

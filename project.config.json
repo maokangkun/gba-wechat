@@ -53,6 +53,10 @@
     "ignore": [
       {
         "type": "folder",
+        "value": "media"
+      },
+      {
+        "type": "folder",
         "value": "rom"
       },
       {
